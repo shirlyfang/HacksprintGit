@@ -1,2 +1,2 @@
-const priceOfSwipe = 5;
+const priceOfSwipe = 7;
 doMath(priceOfSwipe);
